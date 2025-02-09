@@ -16,3 +16,11 @@ I'm Emma Adams and I am a junior studying computer science at the University of 
 - 💻 Interned at Yale Peabody Museum to implement AI systems for digitizing various forms archival data.
 
 - 🌍 Led Web Development Programs as an Instructor Assistant for Kode with Klossy, helping 150+ high school students learn HTML, CSS, and JavaScript.
+
+- 🤖 Published as co-author in <href="https://scazlab.yale.edu/sites/default/files/files/RO_MAN_2024___Hide_and_Seek%20(10).pdf">conference paper</href> for IEEE International Conference on Robot Human Interactive Communication (RO-MAN ‘24).
+
+<hr/>
+<h3>My Other Profiles</h3>
+- <href src="https://www.linkedin.com/in/emma-adams-ct/">LinkedIn</href>  
+
+- <href src="https://emma-adams.replit.app/">My Personal Portfolio</href>
