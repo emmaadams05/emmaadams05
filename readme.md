@@ -21,7 +21,8 @@ I'm Emma Adams and I am a junior studying computer science at the University of 
 - 🤖 Published as co-author in [conference paper](https://scazlab.yale.edu/sites/default/files/files/RO_MAN_2024___Hide_and_Seek%20(10).pdf) for IEEE International Conference on Robot Human Interactive Communication (RO-MAN ‘24).
 
 <hr/>
-<h3>My Other Profiles</h3>
+<h3>My Other Profiles</h3>  
+
 - [LinkedIn](https://www.linkedin.com/in/emma-adams-ct/)  
 
 - [My Personal Portfolio](https://emma-adams.replit.app/)
