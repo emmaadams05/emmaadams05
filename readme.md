@@ -8,8 +8,6 @@ I'm Emma Adams and I am a junior studying computer science at the University of 
 
 <strong>Currently Learning: </strong>Assembly, Haskell, AWS  
 
-![emmaadams05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmaadams05&theme=radical&show_icons=true&hide_border=false&layout=compact)
-
 - 🌐 Student Web Developer for UConn's Internal Insights & Innovation (i3), developing dynamic, database-integrated web applications using HTML, CSS, JavaScript, and PHP.
 
 - 🏆 Winner of Deloitte Health Equity AI Web-App Challenge, creating a machine learning-powered app to detect air quality inequities.
