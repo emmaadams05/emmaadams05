@@ -8,13 +8,17 @@ I'm Emma Adams and I am a junior studying computer science at the University of 
 
 <strong>Currently Learning: </strong>Assembly, Haskell, AWS  
 
+<h3>About Me</h3>  
+
+- 👩‍💻 Front End Software Engineer BLP-Intern for Synchrony Financial
+
 - 🌐 Student Web Developer for UConn's Internal Insights & Innovation (i3), developing dynamic, database-integrated web applications using HTML, CSS, JavaScript, and PHP.
 
 - 🏆 Winner of Deloitte Health Equity AI Web-App Challenge, creating a machine learning-powered app to detect air quality inequities.
 
 - 👩‍💻 Taught Python Data Structures & Object-Oriented Programming as a Teaching Assistant for UConn's CSE 1010 and CSE 2050, leading labs for 60+ engineering and computer science students.
 
-- 💻 Interned at Yale Peabody Museum to implement AI systems for digitizing various forms of archival data.
+- 🦖 Interned at Yale Peabody Museum to implement AI systems for digitizing various forms of archival data.
 
 - 🌍 Led Web Development Programs as an Instructor Assistant for Kode with Klossy, helping 150+ high school students learn HTML, CSS, and JavaScript.
 
