@@ -4,9 +4,9 @@ I'm Emma Adams and I am a junior studying computer science at the University of 
 
 <hr/>
 
-<strong>My Languages & Frameworks:</strong> Python, C, PHP, Laravel, HTML, CSS, JavaScript, React, Flask, SQL  
+<strong>My Languages & Frameworks:</strong> Python, C, PHP, Laravel, HTML, CSS, JavaScript, React, Flask, SQL  , Haskell
 
-<strong>Currently Learning: </strong>Assembly, Haskell, AWS  
+<strong>Currently Learning: </strong>Assembly, AWS  
 
 <h3>About Me</h3>  
 
