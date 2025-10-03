@@ -1,6 +1,6 @@
 <h3>👋 Hello There 👋</h3>  
 
-I'm Emma Adams and I am a junior studying computer science at the University of Connecticut!
+I'm Emma Adams and I am a senior studying computer science at the University of Connecticut!
 
 <hr/>
 
