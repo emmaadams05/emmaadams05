@@ -10,7 +10,8 @@ I'm Emma Adams and I am a senior studying computer science at the University of 
 
 <h3>About Me</h3>  
 
-- 💻 Incoming <strong>Cloud Data Platform Engineer</strong> at <strong>Synchrony Financial</strong>.
+- ☁️ Incoming <strong>Cloud Data Platform Engineer</strong> at <strong>Synchrony Financial</strong>.
+  
 - 💻 Current <strong>Software Engineer and UX</strong> DTC-Intern at <strong>Synchrony Financial</strong>.
 
 - 👩‍💻 Previous <strong>Front End Software Engineer</strong> BLP-Intern for <strong>Synchrony Financial</strong>.
