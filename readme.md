@@ -12,7 +12,7 @@ I'm Emma Adams and I am a senior studying computer science at the University of 
   
 - 💻 Current <strong>Software Engineer and UX</strong> DTC-Intern at <strong>Synchrony Financial</strong>.
 
-- 👩‍💻 Previous <strong>Front End Software Engineer</strong> BLP-Intern for <strong>Synchrony Financial</strong>.
+- 👩‍💻 Previous <strong>Front End Software Engineer</strong> Business Leadership Program Intern for <strong>Synchrony Financial</strong>.
 
 - 🌐 Previous Student <strong>Full-Stack Developer</strong> for UConn's Internal Insights & Innovation (i3), developing dynamic, database-integrated web applications using HTML, CSS, JavaScript, and PHP.
 
