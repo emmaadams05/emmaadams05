@@ -4,9 +4,7 @@ I'm Emma Adams and I am a senior studying computer science at the University of 
 
 <hr/>
 
-<strong>My Languages, Frameworks & Technologies:</strong> React, Python, AWS, HTML, CSS, JavaScript, PHP, Laravel, Flask, SQL, Haskell
-
-<strong>Currently Learning: </strong>Assembly, Flutter  
+<strong>My Languages, Frameworks & Technologies:</strong> React, Python, AWS, HTML, CSS, JavaScript, PHP, Laravel, Flask, SQL, Haskell, Assembly, Flutter
 
 <h3>About Me</h3>  
 
